@@ -43,7 +43,7 @@ title: 140. Recurrency
 - イトマンオーストラリア遠征：年に一度、全国のイトマンスイミングスクールから選抜され豪州遠征があった。
 近大附属高校：近畿大学附属高等学校。当時、普通科、理数科、国際科のほか、水泳をはじめスポーツによる活動を重視するクラスもあった。
 - 「鳥が飛ぶようにヒトは言語をつかう」[Steven Pinker,  Language Instinct](https://books.google.co.jp/books?hl=ja&lr=lang_ja|lang_en&id=UtFqXQosVP0C&oi=fnd&pg=PT6&dq=language+instinct&ots=6Ia3IEwCPx&sig=Ypa3xiDQCnj9TnJZg3XvJhQg12k)
-- [高畑雅一 (たかはたまさかず)](https://nrid.nii.ac.jp/ja/nrid/1000010111147/)： kagayaの北大在籍時の先生
+- [高畑雅一 (たかはたまさかず)](https://nrid.nii.ac.jp/ja/nrid/1000010111147/)： kagayaの北大在籍時の[先生](https://www.evernote.com/l/ABWBBfxfXpJFM5dkG6ZomzB6g0c5aazBHX0/)
 - アメフラシの神経：キャンデル神経科学のエリック・キャンデルの[アメフラシの神経系で学習の分子機構の研究](https://www.nobelprize.org/prizes/medicine/2000/kandel/facts/)
 - イカの神経: ホジキンとハクスレーはじめとする[活動電位の発生メカニズムの研究](https://www.nobelprize.org/prizes/medicine/1963/summary/)が念頭にありました 
 - シナプス統合作用：中枢ニューロンは、複雑な形状をもった樹状突起をもって多くの他のニューロンとシナプスを形成する。細胞でのシナプス電位の空間的時間的分布は、シナプス部位からの解剖学的距離だけでなく、三次元構造、膜・細胞質の電気的性質、電位依存型イオンチャネルによるコンダクタンス変化などの影響を受ける。シナプスでの電流が細胞内をどう拡散していくかと合わせてこれらが「神経計算の実体」に大きな影響を与える。この入出力関係(計算)を決めている諸過程をシナプス統合作用という。
