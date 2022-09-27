@@ -70,7 +70,7 @@ title: 148. XYZ
 - [シャコの「驚異の色覚」は幻想だった？](https://www.natureasia.com/ja-jp/ndigest/v11/n4/%E3%82%B7%E3%83%A3%E3%82%B3%E3%81%AE%E3%80%8C%E9%A9%9A%E7%95%B0%E3%81%AE%E8%89%B2%E8%A6%9A%E3%80%8D%E3%81%AF%E5%B9%BB%E6%83%B3%E3%81%A0%E3%81%A3%E3%81%9F%EF%BC%9F/52559)
 - [Kagaya and Takahata, Science (2011)](https://pubmed.ncbi.nlm.nih.gov/21493864/) ... "Sequential synaptic excitation and inhibition shape readiness discharge for voluntary behavior"
 - [白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp/)
-- [神経系はなぜ東なのか](https://researchmap.jp/read0118403/research_projects/24521497)
+- [神経系はなぜ東なのか](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15370030/)
 - [下澤楯夫](https://researchmap.jp/read0166424)
 - 並列構造　… e.g., 神経の束、イオンチャネルなど
 - コオロギのセンサー
